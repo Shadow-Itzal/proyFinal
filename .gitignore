@@ -1,0 +1,15 @@
+# Ignora la carpeta de dependencias
+node_modules/
+
+# Ignora variables de entorno (seguridad)
+.env
+
+# Ignora Log y archivos temporales
+*.Log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignora archivos del sistema
+.DS_Store
+Thumbs.db
