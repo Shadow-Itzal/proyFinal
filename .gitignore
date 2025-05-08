@@ -2,7 +2,7 @@
 node_modules/
 
 # Ignora variables de entorno (seguridad)
-# .env
+.env
 
 # Ignora Log y archivos temporales
 *.Log
